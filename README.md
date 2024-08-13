@@ -101,8 +101,6 @@
   </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a>
 </p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ReneDurbak&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 
 
 
